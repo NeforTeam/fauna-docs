@@ -14,7 +14,6 @@ AI Model - Android App(User)
 - Запрашивает сокращение описания
 - Запрашивает описание из википедии
 
-
 # Eng
 # For Mobile App Non-Human Actor:
 - As a user, I want to be able to send a photo to the AI model so that it can recognize the animal in the photo.
